@@ -3,10 +3,11 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsoumyajitd&label=Profile%20views&color=0e75b6&style=flat" alt="samsoumyajitd" /> </p>
+  <img align="right" alt="coding" width="400" height="400"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 - 🔭 I’m currently working on **image segmentation using metaheuristic algorithms.**
-  <img align="right" alt="coding" width="400" height="400"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 
 - 🌱 I’m currently learning **React JS, Next JS, Angular etc.**
