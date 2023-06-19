@@ -47,6 +47,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samSoumyajitD&theme=tokyonight&hide_border=false)<br/>
 <a href="https://github.com/samSoumyajitD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samSoumyajitD&langs_count=10&theme=tokyonight&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samSoumyajitD&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
@@ -55,5 +56,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samSoumyajitD&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+
 
 
