@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer and AI-ML enthusiast.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsoumyajitd&label=Profile%20views&color=0e75b6&style=flat" alt="samsoumyajitd" /> </p>
+[![](https://visitcount.itsvg.in/api?id=samSoumyajitD&icon=5&color=1)](https://visitcount.itsvg.in)
   <img align="right" alt="coding" width="400" height="350"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
