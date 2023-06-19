@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I m a cricket enthusiast✌**
 
-<h3 align="left">Connect with me:</h3>
+# 🤝 Connect with me:
 <p align="left">
 <a href="https://codepen.io/capsamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="capsamd" height="30" width="40" /></a>
 <a href="https://twitter.com/soumyaj16101809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumyaj16101809" height="30" width="40" /></a>
