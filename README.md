@@ -42,7 +42,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samSoumyajitD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samSoumyajitD&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samSoumyajitD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/samSoumyajitD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samSoumyajitD&langs_count=10&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samSoumyajitD&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
