@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumyajit Das</h1>
 <h3 align="center">A passionate web developer and AI-ML enthusiast.</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsoumyajitd&label=Profile%20views&color=0e75b6&style=flat" alt="samsoumyajitd" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 - 🔭 I’m currently working on **image segmentation using metaheuristic algorithms.**
