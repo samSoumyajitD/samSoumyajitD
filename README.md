@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS, Next JS, Angular etc.**
+- 🌱 I’m currently learning **React JS, Next JS, Angular, etc.**
 
 - 👯 I’m have worked on [E-cell NIT Agartala Carpediem events website](https://ecellnita.co/carpediem)
 
