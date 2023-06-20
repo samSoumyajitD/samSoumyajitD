@@ -62,7 +62,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align=center>
  <div align=center>
-    <a href="https://github.com/samSoumyajitD" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samSoumyajitD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Top" /></a>
+    <a href="https://github.com/samSoumyajitD" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samSoumyajitD&theme=tokyonight&border=61dafb&hide_border=false&include_all_commits=false&count_private=false" alt="Top" /></a>
   
   </div>
    <br><br>
@@ -71,12 +71,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=samSoumyajitD&theme=tokyonight&border=61dafb&hide_border=false" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=samSoumyajitD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=samSoumyajitD&theme=tokyonight&border=61dafb&hide_border=false&include_all_commits=false&count_private=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-   <a href="https://github.com/samSoumyajitD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samSoumyajitD&langs_count=10&theme=tokyonight&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <a href="https://github.com/samSoumyajitD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samSoumyajitD&langs_count=10&theme=tokyonight&border=61dafb&&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
   </div>
   <br>
