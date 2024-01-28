@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 💫 About Me:
 
 
- <img align="right" alt="coding" width="400" height ="350" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=740&t=st=1706484828~exp=1706485428~hmac=2fc0c48a0b37a4dbe8e91eb84a915279502849794b7a43bdfcc11f911b025da6?username=samSoumyajitD&theme=tokyonight&hide_border=false">
+ <img align="right" alt="coding" width="400" height ="350" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6578.jpg?w=740&t=st=1706484949~exp=1706485549~hmac=7efd5b71ae0ec4f514bdf8289eb08b474d27252dc91834761358042e165b932c?username=samSoumyajitD&theme=tokyonight&hide_border=false">
 
 - 🔭 I’m currently working on **image segmentation using metaheuristic algorithms.**
 
