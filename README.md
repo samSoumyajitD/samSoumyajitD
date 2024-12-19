@@ -41,6 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Computer Networking
 - Object Oriented Programming
 - Big Data Analytics
+
 👨‍💻 All of my projects are available at GitHub.
 
 💬 Ask me about Python, C++, React, HTML, CSS, JavaScript, Django, Node.js, AWS, and Machine Learning.
