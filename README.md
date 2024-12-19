@@ -16,23 +16,38 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  <img align="right" alt="coding" width="400" height ="350" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6578.jpg?w=740&t=st=1706484949~exp=1706485549~hmac=7efd5b71ae0ec4f514bdf8289eb08b474d27252dc91834761358042e165b932c?username=samSoumyajitD&theme=tokyonight&hide_border=false">
 
-- 🔭 I’m currently working on **image segmentation using metaheuristic algorithms.**
+🔭 I’m currently working on MERN and AI/ML-based projects.
 
+🌱 I’m currently learning Next JS, AI tools and improving my skills in AWS and cloud-based solutions.
 
+👯 I have interned as a Software Developer Intern at Niral Networks (Bangalore) and a Full-Stack Development Intern at Lokarpan (Remote).
 
-- 🌱 I’m currently learning **React JS, Next JS, Angular, etc.**
+🏆 Achievements:
 
-- 👯 I’m have worked on [E-cell NIT Agartala Carpediem events website]
+- Selected among the top 2% out of 85,000+ engineering students across India for Amazon ML Summer School 2024.
+- Finalist in the ITU WTSA-24 Hackathon "AI Bharat 5G/6G Sandbox", selected among the top 12 teams out of 88 global teams and 172 participants, organized by DoT India, TCOE India, and ITU.
+- Special Mention in the AI Track at the 10th Protothon, organized by DubsTech, University of Washington, and Design Buddies.
+- Regional Topper in the All India Secondary School Examination 2019, ranked in the top 0.1% nationwide for Mathematics.
+  
+💼 Positions of Responsibility:
 
-- 🤝 I’m looking for opportunities to collaborate **on projects, learn new things, and make a difference in the world.**
+- Project Development and Tech Team Lead (2024): E-Cell, NIT Agartala
+- Internship Coordinator for 2025 CSE Branch (2023): Training and Placement Cell, NIT Agartala
+- AI/ML Team Member (2022): Google Developers Student Club, NIT Agartala
 
-- 👨‍💻 All of my projects are available at [https://github.com/samSoumyajitD](https://github.com/samSoumyajitD)
+📚 Coursework:
 
-- 💬 Ask me about **Python, C++, React, HTML, CSS, JavaScript, and Django.**
+- Data Structures and Algorithms
+- Computer Networking
+- Object Oriented Programming
+- Big Data Analytics
+👨‍💻 All of my projects are available at GitHub.
 
-- 📫 How to reach me **soumyajitdhoni@gmail.com**
+💬 Ask me about Python, C++, React, HTML, CSS, JavaScript, Django, Node.js, AWS, and Machine Learning.
 
-- ⚡ Fun fact **I m a cricket enthusiast✌**
+📫 How to reach me: soumyajitdas.nitagartala.cseic@gmail.com
+
+⚡ Fun fact: I’m a cricket enthusiast and love problem-solving in my spare time!✌
   <br><br>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
