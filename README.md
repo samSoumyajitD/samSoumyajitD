@@ -22,6 +22,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 👯 I have interned as a Software Developer Intern at Niral Networks (Bangalore) and a Full-Stack Development Intern at Lokarpan (Remote).
 
+📫 How to reach me: soumyajitdas.nitagartala.cseic@gmail.com
+
 🏆 Achievements:
 
 - Selected among the top 2% out of 85,000+ engineering students across India for Amazon ML Summer School 2024.
@@ -45,8 +47,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨‍💻 All of my projects are available at GitHub.
 
 💬 Ask me about Python, C++, React, HTML, CSS, JavaScript, Django, Node.js, AWS, and Machine Learning.
-
-📫 How to reach me: soumyajitdas.nitagartala.cseic@gmail.com
 
 ⚡ Fun fact: I’m a cricket enthusiast and love problem-solving in my spare time!✌
   <br><br>
